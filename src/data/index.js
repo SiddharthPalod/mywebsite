@@ -7,21 +7,21 @@ const subheadingItems = [
     'more Designs',
   ];
 
-  const productDesigns = [
-    {
-      imageLink: "https://www.instagram.com/p/C3R-rNRL6Ta/?img_index=1",
-      image: locatoka,
-      title: "Loca Toka ",
-      description: "Embrace the sweetness of nature with India's first berry shampoo! 🌿💆‍♀️ Let the luscious scent and nourishing properties of berries transform your haircare routine. "
-    },
-    {
-      imageLink: "https://www.instagram.com/p/C2KirzPL9S7/?img_index=1",
-      image: nikeshoes,
-      title: "Popular Brand Ads",
-      description: "Amazing Product showcasing for famous brands"
-    },
-  ];
-  
+const productDesigns = [
+  {
+    imageLink: "https://www.instagram.com/p/C3R-rNRL6Ta/?img_index=1",
+    image: locatoka,
+    title: "Loca Toka ",
+    description: "Embrace the sweetness of nature with India's first berry shampoo! 🌿💆‍♀️ Let the luscious scent and nourishing properties of berries transform your haircare routine. "
+  },
+  {
+    imageLink: "https://www.instagram.com/p/C2KirzPL9S7/?img_index=1",
+    image: nikeshoes,
+    title: "Popular Brand Ads",
+    description: "Amazing Product showcasing for famous brands"
+  },
+];
+
 const webappDesigns = [
   {
     imageLink: "https://www.instagram.com/p/C2_6_apr5Ab/",
