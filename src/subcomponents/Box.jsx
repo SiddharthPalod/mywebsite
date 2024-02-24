@@ -1,6 +1,8 @@
 import React ,{useEffect, useState } from 'react'
 import { Tilt } from 'react-tilt';
 import { motion } from 'framer-motion';
+import { subheadingItems, productDesigns, artGalleria , moreDesigns , webappDesigns } from '../data';
+
 
 const Box = ({ title, description, image, imagelink }) => {
     return (

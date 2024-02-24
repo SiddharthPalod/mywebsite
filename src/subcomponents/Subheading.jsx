@@ -1,5 +1,7 @@
 import { motion } from 'framer-motion'
 import React from 'react'
+import { subheadingItems, productDesigns, artGalleria , moreDesigns , webappDesigns } from '../data';
+
 
 function Subheading({ name }) {
   return (
