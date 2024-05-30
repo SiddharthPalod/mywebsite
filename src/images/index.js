@@ -14,8 +14,13 @@ import tourguide from "./tourguide.png"
 import locatoka from "./locatoka.png"
 import confluence from "./confluence.png"
 import synergy from "./synergy.png"
-
+import chocolate from "./chocolate.png"
+import perfumes from "./perfumes.png"
+import makhana from "./makhana.png"
+import brokenbones from "./brokenbones.png"
+import sangam from "./sangam.png"
 export {boundpursuit,moonlightgraze,sakurakrodh,discovertravel,kulfiwala,
     lotuscar,maina,nikeshoes,palxlayers,rythmnrumble,shivatrilogy,tourguide,locatoka,confluence,
     synergy,quartz,
+    chocolate,perfumes,makhana,brokenbones,sangam
 };

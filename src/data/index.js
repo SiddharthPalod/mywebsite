@@ -1,5 +1,6 @@
 import myProfile from "./my-profile.png"
-import { boundpursuit, sakurakrodh , moonlightgraze ,discovertravel, tourguide, lotuscar, kulfiwala, maina, palxlayers, rythmnrumble, shivatrilogy, nikeshoes, locatoka, confluence, synergy, quartz } from "../images";
+import { boundpursuit, sakurakrodh , moonlightgraze ,discovertravel, tourguide, lotuscar, kulfiwala, maina, palxlayers, rythmnrumble, shivatrilogy, nikeshoes, locatoka, confluence, synergy, chocolate, 
+  perfumes, makhana, brokenbones, quartz, sangam} from "../images";
 const subheadingItems = [
     'product Designs',
     'web/app Designs',
@@ -8,6 +9,18 @@ const subheadingItems = [
   ];
 
 const productDesigns = [
+  {
+    imageLink: "https://www.instagram.com/p/C4mqWCZIBUX/?img_index=1",
+    image: chocolate,
+    title: "Zouche Spied Chocolates",
+    description: "Discover the allure of the unconventional with our luxury spiced chocolates"
+  },
+  {
+    imageLink: "https://www.instagram.com/p/C7gwJVTPJQ4/?img_index=1",
+    image: perfumes,
+    title: "Zouche Perfumes",
+    description: "Made from Attars– where elegance meets culture. Fragrance of india"
+  },
   {
     imageLink: "https://www.instagram.com/p/C3R-rNRL6Ta/?img_index=1",
     image: locatoka,
@@ -20,6 +33,19 @@ const productDesigns = [
     title: "Popular Brand Ads",
     description: "Amazing Product showcasing for famous brands"
   },
+  {
+    imageLink: "https://www.instagram.com/p/C48brhDtKzy/?img_index=1",
+    image: makhana,
+    title: "Popular Brand Ads 2.0",
+    description: "Amazing Product showcasing for famous brands"
+  },
+  {
+    imageLink: "https://www.instagram.com/p/C4Z3D7dvHGv/?img_index=1",
+    image: brokenbones,
+    title: "Broken Bones",
+    description: "Introducing our badass new headphones, designed with skull motifs"
+  },
+
 ];
 
 const webappDesigns = [
@@ -102,8 +128,14 @@ const moreDesigns = [
       {
         imageLink: "https://www.instagram.com/confluence_iiitb/",
         image: confluence,
-        title: "Confluence'24",
-        description: "Design lead for the 1st iteration of confluence a speaker based event conducted in iiit-bangalore,creating logo,merch,posters,banners,standee,etc."
+        title: "Confluence'24-'25",
+        description: "Design lead for the 1st two iterations of confluence a speaker based event conducted in iiit-bangalore,creating logo,merch,posters,banners,standee,etc."
+      },
+      {
+        imageLink: "https://www.instagram.com/p/C4vpP6dy0UX/?img_index=1",
+        image: sangam,
+        title: "Sangam'24",
+        description: "Design lead for alumni fest of iiit-bangalore,creating posters,banners,standee,etc."
       },
 ];
 
